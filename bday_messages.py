@@ -12,4 +12,4 @@ bday_messages = [
   'Another year of you going around the sun! 🌞'
 ]
 
-random_message = random.choice()
+random_message = random.choice(bday_messages)
